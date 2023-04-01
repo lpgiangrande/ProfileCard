@@ -12,11 +12,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](result/card.png)
 
 
-### Links
-
-- Live Site URL: 
-
-## My process
 
 ### Built with
 
